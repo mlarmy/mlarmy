@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking to collaborate on **Cyber Security Team**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mlarmy](https://github.com/mlarmy)
+- 👨‍💻 All of my projects are available at [github.com/mlarmy](https://github.com/mlarmy)
 
-- 📝 I regularly write articles on [https://youtube.com/@ml_army?si=dVTFCg6j_7MdfkeH](https://youtube.com/@ml_army?si=dVTFCg6j_7MdfkeH)
+- 📝 I regularly write articles on [ml_army.youtube](https://youtube.com/@ml_army)
 
 - 💬 Ask me about **https://m.me/pu.p.31924**
 
 - 📫 How to reach me **myy6098@gmail.com**
 
-- 📄 Know about my experiences [https://youtube.com/@ml_army?si=dVTFCg6j_7MdfkeH](https://youtube.com/@ml_army?si=dVTFCg6j_7MdfkeH)
+- 📄 Know about my experiences [ml_army.youtube](https://youtube.com/@ml_army)
 
 
 <h3 align="left">Languages and Tools:</h3>
