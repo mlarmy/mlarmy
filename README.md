@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlarmy" alt="mlarmy" /></a> </p>
 
-- 🔭 I’m currently working on **Ethical Hacking**
+- 🔭 I’m currently working on [Ethical Hacking](https://youtube.com/@ml_army)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning [Machine Learning](https://github.com/mlarmy)
 
-- 🤝 I’m looking to collaborate on **Cyber Security Team**
+- 🤝 I’m looking to collaborate on [Cyber Security Team](https://m.me/j/Abawx1lzhQl4_ORb/)
 
 - 👨‍💻 All of my projects are available at [github.com/mlarmy](https://github.com/mlarmy)
 
