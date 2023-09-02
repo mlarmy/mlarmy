@@ -17,9 +17,9 @@
 
 - 📝 I regularly write articles on [ml_army.youtube](https://youtube.com/@ml_army)
 
-- 💬 Ask me about **https://m.me/pu.p.31924**
+- 💬 Ask me about [massenger.me](https://m.me/pu.p.31924)
 
-- 📫 How to reach me **myy6098@gmail.com**
+- 📫 How to reach me [myy6098@gmail.com](myy6098@gmail.com)
 
 - 📄 Know about my experiences [ml_army.youtube](https://youtube.com/@ml_army)
 
