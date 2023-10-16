@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning [Machine Learning](https://github.com/mlarmy)
 
-- 🤝 I’m looking to collaborate on [Cyber Security Team](https://m.me/j/Abawx1lzhQl4_ORb/)
+- 🤝 I’m looking to collaborate on [Cyber Security Team](https://github.com/mlarmy)
 
 - 👨‍💻 All of my projects are available at [github.com/mlarmy](https://github.com/mlarmy)
 
 - 📝 I regularly write articles on [ml_army.youtube](https://youtube.com/@ml_army)
 
-- 💬 Ask me about [messenger.me](https://m.me/pu.p.31924)
+- 💬 Ask me about [messenger.me](https://m.me/mlarmy.hridoy)
 
 - 📫 How to reach me [myy6098@gmail.com](myy6098@gmail.com)
 
