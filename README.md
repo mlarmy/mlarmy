@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5W1AluttX_HbBnJT4YRhirGWtJyghUU1Vg&usqp=CAU)](https://youtube.com/@ml_army)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5W1AluttX_HbBnJT4YRhirGWtJyghUU1Vg&usqp=CAU)](https://youtube.com/@mlarmy2.0)
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 <h3 align="center">I am Working With Cyber Security Team ML ARMY</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on [Ethical Hacking](https://youtube.com/@ml_army)
 
-- 🌱 I’m currently learning [Machine Learning](https://github.com/mlarmy)
+- 🌱 I’m currently learning [Machine Learning](https://youtube.com/@mlarmy2.0)
 
-- 🤝 I’m looking to collaborate on [Cyber Security Team](https://github.com/mlarmy)
+- 🤝 I’m looking to collaborate on [Cyber Security Team](https://m.me/hridoyhossen369)
 
 - 👨‍💻 All of my projects are available at [github.com/mlarmy](https://github.com/mlarmy)
 
 - 📝 I regularly write articles on [ml_army.youtube](https://youtube.com/@ml_army)
 
-- 💬 Ask me about [messenger.me](https://m.me/mlarmy.hridoy)
+- 💬 Ask me about [messenger.me](https://m.me/hridoyhossen369)
 
 - 📫 How to reach me [myy6098@gmail.com](myy6098@gmail.com)
 
-- 📄 Know about my experiences [ml_army.youtube](https://youtube.com/@ml_army)
+- 📄 Know about my experiences [ml_army.youtube](https://youtube.com/@mlarmy2.0)
 
 
 <h3 align="left">Languages and Tools:</h3>
